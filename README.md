@@ -28,23 +28,6 @@ This Netflix Clone is a static landing page that emulates the user interface of 
 - **CSS3:** Styling and layout.
 - **JavaScript:** Interactive elements and enhancements.
 
-## Installation
-
-To set up the project locally:
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/netflix-clone.git
-    ```
-
-2. **Navigate to the project directory:**
-    ```bash
-    cd netflix-clone
-    ```
-
-3. **Open the `index.html` file in your web browser:**
-    Double-click the `index.html` file or use a local server like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in VS Code for a better development experience.
-
 ## Usage
 
 Customize the landing page as needed:
